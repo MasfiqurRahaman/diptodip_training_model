@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bede6091-ca98-45ae-b3c1-903e4a2b1fe7" name="Default Changelist" comment="" />
+    <list default="true" id="bede6091-ca98-45ae-b3c1-903e4a2b1fe7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amdcn/train_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/amdcn/train_model.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +54,9 @@
       <workItem from="1584675961398" duration="1885000" />
       <workItem from="1584680477640" duration="4152000" />
       <workItem from="1584720425149" duration="679000" />
+      <workItem from="1584723984550" duration="1319000" />
+      <workItem from="1584725348732" duration="73000" />
+      <workItem from="1584726302678" duration="905000" />
     </task>
     <servers />
   </component>
@@ -62,13 +68,17 @@
       <screen x="-1920" y="-148" width="1920" height="1040" />
     </state>
     <state x="-1204" y="183" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1584663791277" />
+    <state x="-1180" y="131" key="FileChooserDialogImpl" timestamp="1584725420505">
+      <screen x="-1920" y="-148" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="131" key="FileChooserDialogImpl/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1584725420505" />
     <state x="-1457" y="18" key="SettingsEditor" timestamp="1584674599488">
       <screen x="-1920" y="-148" width="1920" height="1040" />
     </state>
     <state x="-1457" y="18" key="SettingsEditor/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1584674599488" />
-    <state x="-1252" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1584675972995">
+    <state x="-1252" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1584726311108">
       <screen x="-1920" y="-148" width="1920" height="1040" />
     </state>
-    <state x="-1252" y="201" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1584675972995" />
+    <state x="-1252" y="201" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1920.-148.1920.1040@-1920.-148.1920.1040" timestamp="1584726311108" />
   </component>
 </project>

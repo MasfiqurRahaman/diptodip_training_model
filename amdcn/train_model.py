@@ -102,7 +102,7 @@ val_gen = gen.flow(X_val,y_val,batch_size,pad,ignore=ignore_val)
 log_path = args.log_path
 print("[i] training model")
 model_checkpoint = ModelCheckpoint(args.output_path, monitor='val_loss', save_best_only=True)
-tensorboard = TensorBoard(log_dir=log_path, histogram_freq=1)
+tensorboard = TensorBoard(log_dir=log_path, histogram_freq=0) # masfiq edited . previous set to 1
 model.fit_generator(train_gen, args.batches_per_epoch, epochs=args.num_epochs, verbose=1,
           validation_data=val_gen, validation_steps=validation_steps,
           callbacks=[model_checkpoint, tensorboard])
